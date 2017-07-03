@@ -1,1 +1,1 @@
-profile: 53a239a2e357f9dcd556176ff80a8a44f8994dd9281d6941beb0079bb5395c69  # 加密
+profile: '{cipher}53a239a2e357f9dcd556176ff80a8a44f8994dd9281d6941beb0079bb5395c69'  # 对称加密 propties不用引号
